@@ -1,0 +1,35 @@
+ p {
+        font-family: Roboto regular, Roboto Bold;
+        margin-bottom: 5px;
+      }
+
+      .title {
+        font-size: 18px;
+        font-weight: bold;
+        width: 300px;
+        line-height: 24px;
+      }
+      .video_stats {
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+      }
+      .message {
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+        line-height: 20px;
+        width: 300px;
+      }
+      .apple-text {
+        margin-bottom: 50px;
+        font-size: 14px;
+        background-color: rgb(227, 65, 64);
+        color: white;
+        text-align: center;
+        padding-top: 18px;
+        padding-bottom: 18px;
+      }
+      .apple-text span {
+        font-weight: bold;
+        text-decoration: underline;
+        cursor: pointer;
+      }
